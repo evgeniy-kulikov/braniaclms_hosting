@@ -1,0 +1,9 @@
+.idea
+env
+__pycache__
+.vscode
+*.pyc
+log
+emails-tmp
+.DS_Store
+.env
